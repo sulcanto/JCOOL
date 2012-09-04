@@ -1,0 +1,59 @@
+2012-09-04 21:32:22,258 [INFO] (main) cz.cvut.felk.cig.jcool.ui.Boot.guiMode(Boot.java:174)  starting GUI mode
+2012-09-04 21:32:26,687 [INFO] (main) cz.cvut.felk.cig.jcool.ui.Boot.guiMode(Boot.java:182)  JCool started
+2012-09-04 21:32:26,729 [INFO] (AWT-EventQueue-0) cz.cvut.felk.cig.jcool.ui.Boot$2.run(Boot.java:205)  Experiment window opened
+2012-09-04 21:32:40,692 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.experiment.BasicExperimentRunner$1.call(BasicExperimentRunner.java:146)  Starting experiment - function: Basic solver, method: Pure CMA-ES: Pure Covariance Matrix Adaptation Evolution Strategy, solver: Basic solver 
+2012-09-04 21:32:41,035 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  0 Evaluation count: valueAt=0, gradientAt=0, hessianAt=0
+2012-09-04 21:32:41,048 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  1 Evaluation count: valueAt=6, gradientAt=0, hessianAt=0
+2012-09-04 21:32:41,373 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  2 Evaluation count: valueAt=12, gradientAt=0, hessianAt=0
+2012-09-04 21:32:41,802 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  3 Evaluation count: valueAt=18, gradientAt=0, hessianAt=0
+2012-09-04 21:32:42,141 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  4 Evaluation count: valueAt=24, gradientAt=0, hessianAt=0
+2012-09-04 21:32:42,450 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  5 Evaluation count: valueAt=30, gradientAt=0, hessianAt=0
+2012-09-04 21:32:42,783 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  6 Evaluation count: valueAt=36, gradientAt=0, hessianAt=0
+2012-09-04 21:32:43,113 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  7 Evaluation count: valueAt=42, gradientAt=0, hessianAt=0
+2012-09-04 21:32:43,417 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  8 Evaluation count: valueAt=48, gradientAt=0, hessianAt=0
+2012-09-04 21:32:43,759 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  9 Evaluation count: valueAt=54, gradientAt=0, hessianAt=0
+2012-09-04 21:32:44,100 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  10 Evaluation count: valueAt=60, gradientAt=0, hessianAt=0
+2012-09-04 21:32:44,415 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  11 Evaluation count: valueAt=66, gradientAt=0, hessianAt=0
+2012-09-04 21:32:44,728 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  12 Evaluation count: valueAt=72, gradientAt=0, hessianAt=0
+2012-09-04 21:32:45,046 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  13 Evaluation count: valueAt=78, gradientAt=0, hessianAt=0
+2012-09-04 21:32:45,365 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  14 Evaluation count: valueAt=84, gradientAt=0, hessianAt=0
+2012-09-04 21:32:45,687 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  15 Evaluation count: valueAt=90, gradientAt=0, hessianAt=0
+2012-09-04 21:32:45,939 [INFO] (AWT-EventQueue-0) cz.cvut.felk.cig.jcool.experiment.BasicExperimentRunner.stopExperiment(BasicExperimentRunner.java:212)  Sending cancel request to solver.
+2012-09-04 21:32:46,158 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.experiment.BasicExperimentRunner$1.call(BasicExperimentRunner.java:155)  Experiment done. [Experiment interrupted by user.]
+2012-09-04 21:32:51,154 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.experiment.BasicExperimentRunner$1.call(BasicExperimentRunner.java:146)  Starting experiment - function: Basic solver, method: Pure CMA-ES: Pure Covariance Matrix Adaptation Evolution Strategy, solver: Basic solver 
+2012-09-04 21:32:51,163 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  0 Evaluation count: valueAt=0, gradientAt=0, hessianAt=0
+2012-09-04 21:32:51,166 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  1 Evaluation count: valueAt=6, gradientAt=0, hessianAt=0
+2012-09-04 21:32:51,589 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  2 Evaluation count: valueAt=12, gradientAt=0, hessianAt=0
+2012-09-04 21:32:52,098 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  3 Evaluation count: valueAt=18, gradientAt=0, hessianAt=0
+2012-09-04 21:32:52,529 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  4 Evaluation count: valueAt=24, gradientAt=0, hessianAt=0
+2012-09-04 21:32:52,869 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  5 Evaluation count: valueAt=30, gradientAt=0, hessianAt=0
+2012-09-04 21:32:53,231 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  6 Evaluation count: valueAt=36, gradientAt=0, hessianAt=0
+2012-09-04 21:32:53,560 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  7 Evaluation count: valueAt=42, gradientAt=0, hessianAt=0
+2012-09-04 21:32:54,051 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  8 Evaluation count: valueAt=48, gradientAt=0, hessianAt=0
+2012-09-04 21:32:54,390 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  9 Evaluation count: valueAt=54, gradientAt=0, hessianAt=0
+2012-09-04 21:32:54,688 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  10 Evaluation count: valueAt=60, gradientAt=0, hessianAt=0
+2012-09-04 21:32:54,989 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  11 Evaluation count: valueAt=66, gradientAt=0, hessianAt=0
+2012-09-04 21:32:55,291 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  12 Evaluation count: valueAt=72, gradientAt=0, hessianAt=0
+2012-09-04 21:32:55,572 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  13 Evaluation count: valueAt=78, gradientAt=0, hessianAt=0
+2012-09-04 21:32:55,855 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  14 Evaluation count: valueAt=84, gradientAt=0, hessianAt=0
+2012-09-04 21:32:56,183 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  15 Evaluation count: valueAt=90, gradientAt=0, hessianAt=0
+2012-09-04 21:32:56,483 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  16 Evaluation count: valueAt=96, gradientAt=0, hessianAt=0
+2012-09-04 21:32:56,805 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  17 Evaluation count: valueAt=102, gradientAt=0, hessianAt=0
+2012-09-04 21:32:57,101 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  18 Evaluation count: valueAt=108, gradientAt=0, hessianAt=0
+2012-09-04 21:32:57,401 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  19 Evaluation count: valueAt=114, gradientAt=0, hessianAt=0
+2012-09-04 21:32:57,700 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  20 Evaluation count: valueAt=120, gradientAt=0, hessianAt=0
+2012-09-04 21:32:57,996 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  21 Evaluation count: valueAt=126, gradientAt=0, hessianAt=0
+2012-09-04 21:32:58,287 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  22 Evaluation count: valueAt=132, gradientAt=0, hessianAt=0
+2012-09-04 21:32:58,571 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  23 Evaluation count: valueAt=138, gradientAt=0, hessianAt=0
+2012-09-04 21:32:58,887 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  24 Evaluation count: valueAt=144, gradientAt=0, hessianAt=0
+2012-09-04 21:32:59,182 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  25 Evaluation count: valueAt=150, gradientAt=0, hessianAt=0
+2012-09-04 21:32:59,476 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  26 Evaluation count: valueAt=156, gradientAt=0, hessianAt=0
+2012-09-04 21:32:59,775 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  27 Evaluation count: valueAt=162, gradientAt=0, hessianAt=0
+2012-09-04 21:33:00,072 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  28 Evaluation count: valueAt=168, gradientAt=0, hessianAt=0
+2012-09-04 21:33:00,387 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  29 Evaluation count: valueAt=174, gradientAt=0, hessianAt=0
+2012-09-04 21:33:00,708 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  30 Evaluation count: valueAt=180, gradientAt=0, hessianAt=0
+2012-09-04 21:33:01,024 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  31 Evaluation count: valueAt=186, gradientAt=0, hessianAt=0
+2012-09-04 21:33:01,355 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.solver.BasicSolver.solve(BasicSolver.java:137)  32 Evaluation count: valueAt=192, gradientAt=0, hessianAt=0
+2012-09-04 21:33:01,554 [INFO] (AWT-EventQueue-0) cz.cvut.felk.cig.jcool.experiment.BasicExperimentRunner.stopExperiment(BasicExperimentRunner.java:212)  Sending cancel request to solver.
+2012-09-04 21:33:01,657 [INFO] (pool-1-thread-1) cz.cvut.felk.cig.jcool.experiment.BasicExperimentRunner$1.call(BasicExperimentRunner.java:155)  Experiment done. [Experiment interrupted by user.]
+2012-09-04 21:33:03,176 [INFO] (AWT-EventQueue-0) cz.cvut.felk.cig.jcool.ui.Boot$1.windowClosing(Boot.java:194)  JCool stopped

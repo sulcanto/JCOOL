@@ -428,6 +428,12 @@ public class CovarianceMultipointTracker implements TelemetryVisualization<Value
 
                     RealMatrix cov = new Covariance(currentGenerationMatrix).getCovarianceMatrix();
 
+                    // if covariance matrix is not singular eigendecomposition is not able to find
+                    // real eigenvectors and eigenvalues
+                    if (cov.isSingular()){
+                        break;
+                    }
+
                     // estimate mean
                     double [] mean = new double[2];
                     for (int k = 0; k < currentGenerationMatrix.getRowDimension(); k++){
