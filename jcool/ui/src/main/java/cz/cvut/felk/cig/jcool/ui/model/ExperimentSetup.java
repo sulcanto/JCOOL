@@ -10,12 +10,8 @@ import cz.cvut.felk.cig.jcool.core.StopCondition;
 import cz.cvut.felk.cig.jcool.core.Telemetry;
 import cz.cvut.felk.cig.jcool.experiment.TelemetryVisualization;
 import cz.cvut.felk.cig.jcool.solver.Solver;
-import cz.cvut.felk.cig.jcool.ui.view.CurrentValueVisualization;
-import cz.cvut.felk.cig.jcool.ui.view.MultiPointTracker;
-import cz.cvut.felk.cig.jcool.ui.view.MultiPointTrackerColored;
-import cz.cvut.felk.cig.jcool.ui.view.NullVisualization;
-import cz.cvut.felk.cig.jcool.ui.view.SinglePointTracker;
-import cz.cvut.felk.cig.jcool.ui.view.VisualizationControls;
+import cz.cvut.felk.cig.jcool.ui.view.*;
+
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;
 import java.util.Arrays;
@@ -58,7 +54,7 @@ public class ExperimentSetup {
     private static NullVisualization nullVisualization;
     private static CurrentValueVisualization currentValueVisualization;
     static {
-        VISUALIZATIONS = Collections.unmodifiableList(Arrays.asList(new CurrentValueVisualization(), new SinglePointTracker(), new MultiPointTracker(), new MultiPointTrackerColored()));
+        VISUALIZATIONS = Collections.unmodifiableList(Arrays.asList(new CurrentValueVisualization(), new SinglePointTracker(), new MultiPointTracker(), new CovarianceMultipointTracker(), new MultiPointTrackerColored()));
         nullVisualization = new NullVisualization();
         currentValueVisualization = new CurrentValueVisualization();
     }
